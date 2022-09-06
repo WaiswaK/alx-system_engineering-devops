@@ -1,1 +1,1 @@
-Task 0: Where am I?
+Setting README for task 0
